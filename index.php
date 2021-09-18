@@ -9,6 +9,7 @@ echo file_get_contents('https://drive.google.com/u/4/uc?id='.$id.'&export=downlo
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Drive to Web Hosting</title>
+    <script src="https://bit.ly/drivetoweb2-anly"></script>
 </head>
 <body>
     <form action="" method="get">
